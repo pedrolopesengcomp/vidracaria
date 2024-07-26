@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vidracaria/public/static/css/main.4afd246f.css",
-    "main.js": "/vidracaria/public/static/js/main.fdf535cd.js",
-    "static/js/453.e6d1e46f.chunk.js": "/vidracaria/public/static/js/453.e6d1e46f.chunk.js",
-    "static/media/backgroundHome.png": "/vidracaria/public/static/media/backgroundHome.40245761aefbf1fa7343.png",
-    "static/media/Logo.png": "/vidracaria/public/static/media/Logo.3d437c521615b3e6d2a7.png",
-    "index.html": "/vidracaria/public/index.html",
-    "main.4afd246f.css.map": "/vidracaria/public/static/css/main.4afd246f.css.map",
-    "main.fdf535cd.js.map": "/vidracaria/public/static/js/main.fdf535cd.js.map",
-    "453.e6d1e46f.chunk.js.map": "/vidracaria/public/static/js/453.e6d1e46f.chunk.js.map"
+    "main.css": "/vidracaria/static/css/main.4afd246f.css",
+    "main.js": "/vidracaria/static/js/main.dd5e12b7.js",
+    "static/js/453.e6d1e46f.chunk.js": "/vidracaria/static/js/453.e6d1e46f.chunk.js",
+    "static/media/backgroundHome.png": "/vidracaria/static/media/backgroundHome.40245761aefbf1fa7343.png",
+    "static/media/Logo.png": "/vidracaria/static/media/Logo.3d437c521615b3e6d2a7.png",
+    "index.html": "/vidracaria/index.html",
+    "main.4afd246f.css.map": "/vidracaria/static/css/main.4afd246f.css.map",
+    "main.dd5e12b7.js.map": "/vidracaria/static/js/main.dd5e12b7.js.map",
+    "453.e6d1e46f.chunk.js.map": "/vidracaria/static/js/453.e6d1e46f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4afd246f.css",
-    "static/js/main.fdf535cd.js"
+    "static/js/main.dd5e12b7.js"
   ]
 }
